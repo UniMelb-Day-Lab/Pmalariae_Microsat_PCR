@@ -1,5 +1,8 @@
 # Modified semi-nested PCR protocol for _P. malariae_ microsatellite genotyping
-This document provides the details developed for the modified semi-nested PCR protocol for _P. malariae_ microsatellite genotpying. 
+This document provides the details for the modified semi-nested PCR protocol for _P. malariae_ microsatellite genotpying. 
+
+Please use the following citation when referencing this modified PCR protocol:
+* _This manuscript is in prepeation and will be provided once published (Rios Teran et al. (2025))_
 
 This appraoch involves twelve _P. malariae_ microsatellite loci distributed across eight chromosomes: six loci are from the panel developed by [Bruce et al. (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1868962/) (Pm01_817, Pm04_262, Pm04_548, Pm12_232, Pm12_649, Pm13_337) and six loci are from the panel developed by [Mathema et al. (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6988369/) (Pm05_707, Pm06_506, Pm07_429, Pm09_801, Pm12_426, Pm13_110). 
 
@@ -139,6 +142,8 @@ These pools were then sent to the [Australian Genome Research Facility](https://
 ``
 
 
-## References
-Please use the following citation, as indicated, when referencing this protocol:
-* Tiedje KE, Oduro AR, Agongo G, Anyorigiya T, Azongo D, Awine T, Ghansah A, Pascual M, Koram KK, Day KP. Seasonal variation in the epidemiology of asymptomatic _Plasmodium falciparum_ infections across two catchment areas in Bongo District, Ghana. Am J Trop Med Hyg. 2017;97: 199–212.(https://pmc.ncbi.nlm.nih.gov/articles/PMC5508908/)
+## Citations used in
+
+This modified semi-nested PCR protocol for _P. malariae_ microsatellite genotyping has been used in the following citations:
+
+* Tan MH, Bangre O, Rios-Teran CA, Tiedje KE, Deed SL, Zhan Q, Rasyidi F, Pascual M, Ansah PO, Day KP. Metagenomic analysis reveals extreme complexity of Plasmodium spp. infections in high transmission in West Africa. medRxiv [Preprint]. 2025 May 2:2025.04.29.25326533. doi: 10.1101/2025.04.29.25326533. PMID: 40343031; PMCID: PMC12060935 (https://pubmed.ncbi.nlm.nih.gov/40343031/)
