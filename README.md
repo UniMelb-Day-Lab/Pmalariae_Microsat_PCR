@@ -4,6 +4,8 @@ This document provides the details for the modified semi-nested PCR protocol for
 Please use the following citation when referencing this modified PCR protocol:
 * _This manuscript is in prepeation and will be provided once published (Rios Teran et al. (2025))_
 
+
+#
 This appraoch involves twelve _P. malariae_ microsatellite loci distributed across eight chromosomes: six loci are from the panel developed by [Bruce et al. (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1868962/) (Pm01_817, Pm04_262, Pm04_548, Pm12_232, Pm12_649, Pm13_337) and six loci are from the panel developed by [Mathema et al. (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6988369/) (Pm05_707, Pm06_506, Pm07_429, Pm09_801, Pm12_426, Pm13_110). 
 
 For this modified protocol, these two separate panels were combined and multiplexed, allowing simultaneous amplification of multiple loci in a single reaction. This multiplexing approach was necessary to conserve the amount of gDNA used, espcailly when working with dried blood spot (DBS) samples collected from participants with low-density _P. malariae_ infections.
