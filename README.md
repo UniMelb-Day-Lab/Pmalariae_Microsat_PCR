@@ -1,8 +1,8 @@
 # Modified semi-nested PCR protocol for _P. malariae_ microsatellite genotyping
-This document provides the details for the modified semi-nested PCR protocol for _P. malariae_ microsatellite genotpying. 
+This document provides the details for the modified semi-nested PCR protocol for _P. malariae_ microsatellite genotyping.
 
 Please use the following citation when referencing this modified PCR protocol:
-* _This manuscript is in prepeation and will be provided once published (Rios Teran et al. (2025))_
+* _This manuscript is in preperation and will be provided once published (Rios Teran et al. (2025))_
 
 
 #
@@ -53,7 +53,7 @@ The semi-nested PCR protocol and cycling conditions were modified to maximize am
 Each first-round of this semi-nested PCR was carried out in a total volume of 25 µL, comprising 5 µL of gDNA template, with final concentrations of 1X buffer, 3 mM of MgCl₂, 0.4 mM of dNTP mix, 0.04 µM of each primer (i.e., Primer 1-4, forward and reverse), 1.2 units of GoTaq G2 Hot Start polymerase (Promega), and nuclease-free water. 
 
 The first-round PCRs were multiplexed (i.e., three separate PCR reactions each containing four different sets of primers). 
-_Note: The same PCR protocol was used for all three first round multiplex reactions (i.e., Multiplex 1, Multiplex 2, and Multiplex 3). _
+_Note: The same PCR protocol was used for all three first round multiplex reactions (i.e., Multiplex 1, Multiplex 2, and Multiplex 3)._
 
 #### Table 2. Round 1 PCR mastermix.
 
