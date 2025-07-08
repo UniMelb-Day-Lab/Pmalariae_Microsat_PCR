@@ -50,9 +50,10 @@ The original PCR protocols were developed by [Bruce et al. (2006)](https://pmc.n
 The semi-nested PCR protocol and cycling conditions were modified to maximize amplification success, particularly for DBS samples from low-density _P. malariae_ infections.
 
 ### Round 1
-Each first-round of this semi-nested PCR was carried out in a total volume of 25 µL, comprising 5 µL of gDNA template, with final concentrations of 1X buffer, 3 mM of MgCl₂, 0.4 mM of dNTP mix, 0.04 µM of each primer (i.e., Primer 1-4, forward and reverse), 1.2 units of GoTaq G2 Hot Start polymerase (Promega), and nuclease-free water. 
+Each first-round of this semi-nested PCR was carried out in a total volume of 25 µL, comprising 5 µL of gDNA template, with final concentrations of 1X buffer, 3 mM of MgCl₂, 0.4 mM of dNTP mix, 0.04 µM of each primer (i.e., Primer 1-4, forward and reverse; see Table 1), 1.2 units of GoTaq G2 Hot Start polymerase (Promega), and nuclease-free water. 
 
-The first-round PCRs were multiplexed (i.e., three separate PCR reactions each containing four different sets of primers). 
+The first-round PCRs were multiplexed (i.e., three separate PCR reactions each containing four different sets of primers)(see Table 1).
+
 _Note: The same PCR protocol was used for all three first round multiplex reactions (i.e., Multiplex 1, Multiplex 2, and Multiplex 3)._
 
 #### Table 2. Round 1 PCR mastermix.
@@ -87,9 +88,9 @@ _Note: The same PCR protocol was used for all three first round multiplex reacti
 _Note: For each PCR, positive (i.e., previously genotyped P. malariae isolates) and negative (i.e., nuclease-free water) controls were included for quality control._
 
 ### Round 2
-The second-round PCRs required the preparation of 12 separate reactions with the fluorescent-labelled primers. 
+The second-round PCRs required the preparation of 12 separate reactions with the fluorescent-labelled primers (see Table 1). 
 
-Each second-round PCR was carried out in a total volume of 25 µL, comprising 3 µL of the first-round PCR product, with final concentrations of 1X buffer, 3 mM of MgCl₂, 0.2 mM of dNTP mix, 0.08 µM of each primer, 0.6 units of GoTaq G2 Hot Start polymerase (Promega), and nuclease-free water. 
+Each second-round PCR was carried out in a total volume of 25 µL, comprising 3 µL of the first-round PCR product, with final concentrations of 1X buffer, 3 mM of MgCl₂, 0.2 mM of dNTP mix, 0.08 µM of each primer (see Table 1), 0.6 units of GoTaq G2 Hot Start polymerase (Promega), and nuclease-free water. 
 
 #### Table 3. Round 2 PCR mastermix.
 
@@ -116,6 +117,7 @@ Each second-round PCR was carried out in a total volume of 25 µL, comprising 3 
  
 ### Capillary electrophoresis
 For the capillary electrophoresis, four pools with the fluorescently labeled round-two PCR products were prepared for each _P. malariae_ isolate, as descibed below. 
+
 These pools were then sent to the [Australian Genome Research Facility](https://www.agrf.org.au) (Melbourne, AU) where capillary electrophoresis was performed on an Applied Biosystems 3730xl DNA analyser with a 50m array and POP-7 polymer (ThermoFisher Scientific) and the size standard LIZ500. 
 
 #### Table 4. Pooling strategy for _P. malariae_ microsatellite genotyping.
