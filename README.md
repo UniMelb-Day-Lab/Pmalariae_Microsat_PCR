@@ -39,7 +39,7 @@ Reagent concentrations and cycling conditions were optimized to improve sensitiv
 <sup>a</sup> Groups of primers multiplexed together during the first round of the semi-nested PCR.  
 <sup>b</sup> Primers first described by [Bruce et al. (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1868962/) .  
 <sup>c</sup> Primers first described by [Mathema et al. (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6988369/).  
-<sup>~</sup> Primers in bold were designed in this study (Rios-Teran et al., 2025, publication in preperation) to target previously published loci using a semi-nested PCR approach.  
+<sup>~</sup> Primers in **bold** were designed in this study (Rios-Teran et al., 2025, publication in preperation) to target previously published loci using a semi-nested PCR approach.  
 <sup>*</sup> Fluorescent tags used for second-round semi-nested PCR.  
 <sup>d</sup> Genome position (bp) based on _P. malariae_ reference genome ([PmUG01, NIH, NCBI 2025](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_900090045.1/)), relative to second-round product.
 
