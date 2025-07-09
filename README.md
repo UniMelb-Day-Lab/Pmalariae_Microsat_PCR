@@ -116,7 +116,7 @@ Each second-round PCR was carried out in a total volume of 25 µL, comprising 3 
 * storage at 4°C
  
 ### Capillary electrophoresis
-For the capillary electrophoresis, four pools with the fluorescently labeled round-two PCR products were prepared for each _P. malariae_ isolate, as descibed below. 
+For the capillary electrophoresis, four pools with the fluorescently labeled round-two PCR products were prepared for each _P. malariae_ isolate, as descibed below (see Table 4). 
 
 These pools were then sent to the [Australian Genome Research Facility](https://www.agrf.org.au) (Melbourne, AU) where capillary electrophoresis was performed on an Applied Biosystems 3730xl DNA analyser with a 50m array and POP-7 polymer (ThermoFisher Scientific) and the size standard LIZ500. 
 
